@@ -1,0 +1,12 @@
+h1{
+  text-transform: uppercase ;
+  text-align: center;
+  background-color: rgba(255, 50, 100, 0.5);
+  padding: auto;
+  margin: auto 200px auto 200px;
+
+}
+body{
+  background-color: rgb(44, 99, 0);
+  text-align: center;
+}

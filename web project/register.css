@@ -1,0 +1,14 @@
+body{
+  background-color: rgb(35, 70, 80);
+}
+div{
+text-align: center;
+}
+h1{
+  color: rgb(35, 220, 180);
+  text-align: center;
+  font-family: sans-serif;
+}
+input{
+  background-color: transparent;
+}

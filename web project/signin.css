@@ -1,0 +1,11 @@
+.signin{
+  position: absolute;
+  text-align: center;
+  background-color: rgb(48, 20,10);
+  color: white;
+  text-overflow: clip;
+  margin:auto 500px auto 500px;
+}
+body{
+  background-color: rgba(225, 60, 90, 0.9);
+}
